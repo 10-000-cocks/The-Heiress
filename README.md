@@ -13,4 +13,6 @@
 
 # Files
 
-### (Intro)[intro.md]
+- Intro speech: [Intro](intro.md)  
+- Overall schedule: [Schedule](schedule.md)  
+- Macro mechanics: [Playplay](playplay.md)
