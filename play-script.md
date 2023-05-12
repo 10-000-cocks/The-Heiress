@@ -1,4 +1,4 @@
-# Gameplay
+# Play script
 
 #### After intro
 - Actors stand mixed in with the Audience `→ all are NCPs`
