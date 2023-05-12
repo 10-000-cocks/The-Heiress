@@ -14,12 +14,15 @@ The files in this repository represent the current state of development of the H
 
 ---
 
-#### To dos
+### To dos 🚧
 
-- [ ] Game mech to define
-	- [ ] Rules, questions, ... for recap
-	- [ ] Deathtrap: what happens when it's met?
+#### Play
+- [ ] Rules, questions, ... for Recap
+- [ ] Define deathtraps for each Character?
 
-- [ ] Props to get
-	- [ ] Flip board (whiteboard OK from Heidi)
-	- [ ] Roll of paper to cover Phase 2 & 3 character cards with
+#### Props
+- [ ] Flip board (whiteboard OK from Heidi)
+- [ ] Roll of paper to cover Phase 2 & 3 character cards with
+
+#### Writing
+- [ ] Dev intro
