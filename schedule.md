@@ -1,4 +1,4 @@
-[← README.md](README.md)
+[← readme.md](readme.md)
 
 # Schedule
 
@@ -21,7 +21,7 @@
 	- Calling up all characters' names (grouped by phase)
 
 
-### Play&ensp;![Yen-Ching](https://img.shields.io/static/v1?label=&message=Yen-Ching&style=flat-square&color=c0c) ![Satu](https://img.shields.io/static/v1?label=&message=Satu&style=flat-square&color=666) ![Tangmo](https://img.shields.io/static/v1?label=&message=Tangmo&style=flat-square&color=666) ![Sofia](https://img.shields.io/static/v1?label=&message=Sofia&style=flat-square&color=666) [→ script.md](script.md)
+### Play&ensp;![Yen-Ching](https://img.shields.io/static/v1?label=&message=Yen-Ching&style=flat-square&color=c0c) ![Satu](https://img.shields.io/static/v1?label=&message=Satu&style=flat-square&color=666) ![Tangmo](https://img.shields.io/static/v1?label=&message=Tangmo&style=flat-square&color=666) ![Sofia](https://img.shields.io/static/v1?label=&message=Sofia&style=flat-square&color=666) [→ play-script.md](play-script.md)
 - Phase 1
 - Phase 2
 - Phase 3
