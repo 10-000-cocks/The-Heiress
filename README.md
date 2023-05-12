@@ -11,8 +11,10 @@
 - [ ] Flip board (whiteboard OK from Heidi)
 - [ ] Roll of paper to cover Phase 2 & 3 character cards with
 
-# Files
+---
 
-- Intro speech: [Intro](intro.md)  
-- Overall schedule: [Schedule](schedule.md)  
-- Macro mechanics: [Playplay](playplay.md)
+### [→ Evening schedule](schedule.md)  
+### [→ Intro address](intro.md)  
+### [→ Play script](script.md)
+### [→ Detail: Roles](detail-roles.md)  
+### [→ Detail: Moves](detail-moves.md)  
