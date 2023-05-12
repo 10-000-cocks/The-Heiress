@@ -1,16 +1,21 @@
 # The Heiress repo
 
-## Files
+The files in this repository represent the current state of development of the Heiress play.  
+Please take a look:
 
-[→ Schedule](schedule.md)  
-[→ Intro](intro.md)  
-[→ Script](script.md)  
-[→ Detail: Roles](detail-roles.md)  
-[→ Detail: Moves](detail-moves.md)  
+#### Overviews
+- Play script [→ script.md](script.md)
+- Evening schedule [→ schedule.md](schedule.md)
+- Intro text [→ intro.md](intro.md)
+
+#### Details
+- Roles [→ detail-roles.md](detail-roles.md)
+- Moves [→ detail-moves.md](detail-moves.md)
+- Card types [→ detail-card-types.md](detail-card-types.md)
 
 ---
 
-##  To do
+### Development notes
 
 - [ ] Game mech to define
 	- [ ] Rules, questions, ... for recap
