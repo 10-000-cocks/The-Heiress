@@ -14,7 +14,7 @@ The files in this repository represent the current state of development of the H
 
 ---
 
-### 🚧 To 🚧 dos 🚧
+### 🚧 To 🚧 do 🚧
 
 #### Play
 - [ ] Rules, questions, ... for Recap
