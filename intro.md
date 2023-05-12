@@ -1,7 +1,3 @@
-[← Readme](readme.md) [← Schedule](schedule.md) / [→ Script](script.md)  
-
----
-
 # Intro
 
 ### I. About the project
