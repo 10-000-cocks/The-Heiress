@@ -1,7 +1,6 @@
 # The Heiress repo
 
-The files in this repository represent the current state of development of the Heiress play.  
-Please take a look:
+The files in this repository represent the current state of development of the Heiress play:
 
 #### Overviews
 - Play script [→ script.md](script.md)
@@ -15,7 +14,7 @@ Please take a look:
 
 ---
 
-### Development notes
+#### To dos
 
 - [ ] Game mech to define
 	- [ ] Rules, questions, ... for recap
