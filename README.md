@@ -2,19 +2,19 @@
 
 The files in this repository represent the current state of development of the Heiress play:
 
-#### Overviews
+#### Overview
 - Play script [→ script.md](script.md)
 - Evening schedule [→ schedule.md](schedule.md)
 - Intro text [→ intro.md](intro.md)
 
-#### Details
+#### Detail
 - Roles [→ detail-roles.md](detail-roles.md)
 - Moves [→ detail-moves.md](detail-moves.md)
 - Card types [→ detail-card-types.md](detail-card-types.md)
 
 ---
 
-### To dos 🚧
+### 🚧 To 🚧 dos 🚧
 
 #### Play
 - [ ] Rules, questions, ... for Recap
