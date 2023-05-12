@@ -10,7 +10,7 @@
 #### Non-character players
 |**Moves**|![Root](https://img.shields.io/static/v1?label=&message=Root&style=flat-square&color=blueviolet)|
 |:-|:-|
-|**Motivation**|Free curiosity|
+|**Motivation**|Curiosity|
 |**Rights**|Can deny programming attempts|
 
 #### Character players
