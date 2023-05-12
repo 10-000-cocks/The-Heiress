@@ -2,17 +2,19 @@
 
 ### Character
 
-|Title|`<text>`|
+|Type|Character|
 |:-|:-|
-|Description|`<text>`|
-|Phase|`1` `2` `3` `Unexpected` `Passive`|
-|Super power|`<text>`|
-|Death trap|`<text>`|
+|**Title**|`<text>`|
+|**Description**|`<text>`|
+|**Phase**|`1` `2` `3` `Unexpected` `Passive`|
+|**Super** power|`<text>`|
+|**Death** trap|`<text>`|
 
 ### Spell
 
-|Title|`<text>`|
+|Type|Spell|
 |:-|:-|
-|Description|`<text>`|
-|Phase|`1` `2` `3` `Unexpected` `Passive`|
+|**Title**|`<text>`|
+|**Description**|`<text>`|
+|**Phase**|`1` `2` `3` `Unexpected` `Passive`|
 
