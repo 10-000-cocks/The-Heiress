@@ -1,9 +1,4 @@
-[← Readme](readme.md)  
-[← Schedule](schedule.md)  
-  
-[→ Detail: Roles](detail-roles.md)  
-[→ Detail: Moves](detail-moves.md)
-
+[← Readme](readme.md) [← Schedule](schedule.md) [→ Roles](detail-roles.md) [→ Moves](detail-moves.md)
 
 # Play script  
 
