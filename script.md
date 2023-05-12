@@ -7,7 +7,7 @@
 - Start
   - GM programs Players `→ NPCs turn into CPs`
 - Core loop
-  - CPs start embodying their Characters `→ society emerges`
+  - CPs start embodying their Characters `→ Society emerges`
   - GM (re)programs (further) Players
 - Additional functions
   - NCPs (re)program (further) Players
