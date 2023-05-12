@@ -1,6 +1,7 @@
 # The Heiress repo
 
-The files in this repository represent the current state of development of the Heiress play:
+This repository contains the current state of development of the Heiress play.  
+We hope you find your way with these files:
 
 #### Overview
 - List of terms [→ terms.md](terms.md)
@@ -17,8 +18,11 @@ The files in this repository represent the current state of development of the H
 
 ### 🚧 To 🚧 do 🚧
 
-#### Play
+#### Script
 - [ ] Rules, questions, ... for Recap
+
+#### Characters
+- [ ] Add list of Characters to this repo
 - [ ] Define deathtraps for each Character?
 
 #### Props
