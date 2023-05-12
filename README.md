@@ -1,4 +1,4 @@
-##  To do
+#  To do
 
 #### Questions to clarify
 - [ ] 
@@ -9,6 +9,4 @@
 
 #### Props to get
 - [ ] Flip board (whiteboard OK from Heidi)
-
-## Files
-
+- [ ] Roll of paper to cover Phase 2 & 3 character cards with
