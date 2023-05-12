@@ -1,15 +1,19 @@
-##  To do
+#  To do
 
 Game mech to define
-- Rules/Qs/... for recap
-- Deathtrap: what happens when it's met?
+-[ ] Rules, questions, ... for recap
+-[ ] Deathtrap: what happens when it's met?
 
 Props to get
-- Flip board (whiteboard OK from Heidi)
+-[ ] Flip board (whiteboard OK from Heidi)
 
 
+---
+---
+---
 
 
+# Mechanics
 
 ## Gameplay
 
@@ -26,35 +30,38 @@ Props to get
 
 
 
-
 ## Moves
 
-### (Meta scope)
+#### ![Meta](https://img.shields.io/static/v1?label=Meta&message=Anything&style=for-the-badge&color=00c)
+```
+Do whatever they like
+```
 
-#### Whatever
-- Do whatever they like
+#### ![Meta](https://img.shields.io/static/v1?label=Meta&message=Change+play+phase&style=for-the-badge&color=00c)
+```
+Flip / write new phase number on flipboard
+```
 
-### (Infra scope)
+### ![Root](https://img.shields.io/static/v1?label=Root&message=Program+/+reprogram+Players&style=for-the-badge&color=blueviolet)
+```
+Ask "Can you be <character> for me?"
+Give character card to Player
+```
 
-#### Change play phase
-- Flip / write new phase number on flipboard
+### ![Root](https://img.shields.io/static/v1?label=Root&message=Cast+spell&style=for-the-badge&color=blueviolet)
+```
+Cast a spell card
+```
 
-### (Root scope)
+### ![Character](https://img.shields.io/static/v1?label=Character&message=Embody&style=for-the-badge&color=orange)
+```
+Interpret freely and embody your given Character
+```
 
-#### Program / reprogram Players
-- Ask "Can you be <character> for me?"
-- Give character card to Player
-
-#### Cast spell
-- Cast a spell card
-
-### (Character scope)
-
-#### Embody
-- Interpret freely and embody your given Character
-
-#### Use super powers
-- Use your given Character's super power
+### ![Character](https://img.shields.io/static/v1?label=Character&message=Use+super+powers&style=for-the-badge&color=orange)
+```
+Use your given Character's super power
+```
 
 
 
@@ -62,33 +69,31 @@ Props to get
 
 ## Roles
 
-### Game master (GM)
-- Motivation: Keep the game running
-- Rights
-  - Meta: Do anything they like
-  - Meta: Change play phase : "by ear" but no later than after 10 mins
-  - Root: Program / reprogram Players
-
-
+### Game master
+|Role|GM|
+|:-|:-|
+|**Motivation**|Keep the game running|
+|**Moves**|![Meta](https://img.shields.io/static/v1?label=&message=Meta&style=flat-square&color=00c) ![Root](https://img.shields.io/static/v1?label=&message=Root&style=flat-square&color=blueviolet)|
 
 ### Players
 
-#### Non-character players (NCPs)
-- Motivation: Curiosity
-- Rights
-  - Root: Program / reprogram Players
-- Subjected to
-  - pre-born (therefore, cannot act)
+#### Non-character players
+|Role|NCPs|
+|:-|:-|
+|**Motivation**|Curiosity|
+|**Moves**|![Root](https://img.shields.io/static/v1?label=&message=Root&style=flat-square&color=blueviolet)|
 
-#### Character players (CPs)
-- Motivation: Exist (in (stage) society)
-- Rights
-  - Interpret and embody their Characters 
-- Limitations
-  - cannot program
-- Subjected to
-  - revert to NCP by death
-  - revert to Dark Horse by decommissioning
+#### Character players
+|Role|CPs|
+|:-|:-|
+|**Motivation**|Exist (in (stage) society)|
+|**Moves**|![Character](https://img.shields.io/static/v1?label=&message=Character&style=flat-square&color=orange)|
+
+### Notes
+```
+- revert to NCP by death
+- revert to Dark Horse by decommissioning
+```
 
 
 
