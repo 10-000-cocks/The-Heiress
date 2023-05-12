@@ -1,4 +1,4 @@
-# Technical terms
+# Terms
 
 ### Play
 
