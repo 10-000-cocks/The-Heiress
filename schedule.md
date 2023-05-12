@@ -1,4 +1,4 @@
-# Schedule
+# [Schedule](README.md)
 
 ### Pre
 - Visitors enter building
