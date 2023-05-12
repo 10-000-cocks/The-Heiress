@@ -11,17 +11,22 @@
 #### Non-character players
 |Role|NCPs|
 |:-|:-|
-|**Motivation**|Curiosity|
+|**Motivation**|Free curiosity|
 |**Moves**|![Root](https://img.shields.io/static/v1?label=&message=Root&style=flat-square&color=blueviolet)|
+|**Rights**|Can deny programming attempts|
 
 #### Character players
 |Role|CPs|
 |:-|:-|
 |**Motivation**|Exist (in (stage) society)|
 |**Moves**|![Character](https://img.shields.io/static/v1?label=&message=Character&style=flat-square&color=orange)|
+|**Rights**|Can deny programming attempts|
 
-### Notes
+---
+
 ```
-- revert to NCP by death
-- revert to Dark Horse by decommissioning
+NOTES
+
+- CPs revert to NCP by death
+- CPs revert to Dark Horse by decommissioning
 ```
