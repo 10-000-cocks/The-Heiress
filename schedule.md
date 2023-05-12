@@ -1,4 +1,4 @@
-[← Readme](readme.md) | [→ Intro](intro.md) [→ Script](play-script.md)  
+[← Readme](readme.md) / [→ Intro](intro.md) [→ Script](play-script.md)  
 
 ---
 
