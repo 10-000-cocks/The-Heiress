@@ -1,4 +1,4 @@
-# Play plan
+# Schedule
 
 ### 0. Pre
 - Players enter building
@@ -9,28 +9,22 @@
 	- ? clock to count down time until play start?
 
 
-
-
-
-### Initialisation
+### 1. Intro
+- About the project
+- About the Play
+- Relation Play to project
+- Initialisation
 	- Calling up all characters' names (grouped by phase)
 
 
+### 2. Play
+- Phase 1
+- Phase 2
+- Phase 3
 
 
-
-## 2. Play
-1. Phase 1
-2. Phase 2
-3. Phase 3
+### 3. Recap
 
 
-
-## 3. Recap
-
-
-
-## 4. End
-- Players leave play area --> Numb / building 
-
-
+### 4. End
+- Players leave play area --> Numb / building
