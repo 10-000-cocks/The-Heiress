@@ -26,4 +26,5 @@ The files in this repository represent the current state of development of the H
 - [ ] Roll of paper to cover Phase 2 & 3 character cards with
 
 #### Writing
-- [ ] Dev intro
+- [ ] Dev intro text
+- [ ] Dev terms
