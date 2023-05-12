@@ -1,12 +1,16 @@
-[← readme.md](readme.md)  
-[← schedule.md](schedule.md)
+[← Readme](readme.md)  
+[← Schedule](schedule.md)  
+  
+[→ Detail: Roles](detail-roles.md)  
+[→ Detail: Moves](detail-moves.md)
 
-# Play script
+
+# Play script  
 
 #### After intro
 - Actors stand mixed in with the Audience `→ all are NCPs`
 
-#### Phase 1 [→ detail-roles.md](detail-roles.md) / [→ detail-moves.md](detail-moves.md)
+#### Phase 1
 - Start
   - GM programs Players `→ NPCs turn into CPs`
 - Core loop
