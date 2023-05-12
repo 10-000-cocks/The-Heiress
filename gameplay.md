@@ -1,20 +1,26 @@
-## Gameplay
+# Gameplay
 
 #### After intro
 - Actors stand mixed in with the Audience `→ all are NCPs`
 
 #### Phase 1
-- GM programs NCPs `→ turn into CPs`
-- CPs start embodying their Characters `→ society emerges`
-- GM or remaining NCPs (re)program (further N)CPs
-- Spells are cast
-- Super powers are invoked
+- Start
+  - GM programs Players `→ NPCs turn into CPs`
+- Core
+  - CPs start embodying their Characters `→ society emerges`
+  - GM (re)programs (further) Players
+- Additional
+  - NCPs (re)program (further) Players
+  - Spells are cast
+  - Super powers are invoked
 
 #### Phase 2
-- ...
+- Core...
+- Additional...
 
 #### Phase 3
-- ...
+- Core...
+- Additional...
 
 #### Play ends
 - `→ recap`
