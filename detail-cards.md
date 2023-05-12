@@ -1,6 +1,6 @@
-# Card prototypes
+# Cards
 
-### Type: Character
+### Character
 
 |Field|Value|
 |:-|:-|
@@ -10,7 +10,7 @@
 |Super power|`text`|
 |Death trap|`text`|
 
-### Type: Spell
+### Spell
 
 |Field|Value|
 |:-|:-|
