@@ -3,8 +3,9 @@
 The files in this repository represent the current state of development of the Heiress play:
 
 #### Overview
+- List of terms [→ terms.md](terms.md)
 - Play script [→ script.md](script.md)
-- Evening schedule [→ schedule.md](schedule.md)
+- Event schedule [→ schedule.md](schedule.md)
 - Intro text [→ intro.md](intro.md)
 
 #### Detail
