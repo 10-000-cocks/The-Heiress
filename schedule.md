@@ -1,7 +1,3 @@
-[← Readme](readme.md) / [→ Intro](intro.md) [→ Script](script.md)  
-
----
-
 # Schedule
 
 ### Pre
