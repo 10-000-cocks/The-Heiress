@@ -16,7 +16,7 @@ We hope you find your way with these files:
 
 ---
 
-### 🚧 To 🚧 do 🚧
+### To do
 
 #### Script
 - [ ] Rules, questions, ... for Recap
