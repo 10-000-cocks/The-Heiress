@@ -3,7 +3,7 @@
 ### (Anything)
 |Scope|![Meta](https://img.shields.io/static/v1?label=&message=Meta&style=flat-square&color=00c)|
 |:-|:-|
-|**How**|Do anything you like/anything that is necessary to keep the Play going|
+|**How**|Do anything you like/anything necessary to keep the Play going|
 
 ### Change play phase
 |Scope|![Meta](https://img.shields.io/static/v1?label=&message=Meta&style=flat-square&color=00c)|
