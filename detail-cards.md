@@ -8,7 +8,7 @@
 |**Description**|`<text>`|
 |**Phase**|`1` `2` `3` `Unexpected` `Passive`|
 |**Superpower**|`<text>`|
-|**Death** trap|`<text>`|
+|**Deathtrap**|`<text>`|
 
 ### Spell
 
