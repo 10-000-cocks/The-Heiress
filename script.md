@@ -12,7 +12,7 @@
 - Additional functions
   - NCPs (re)program (further) Players
   - Spells are cast
-  - Super powers are invoked
+  - Superpowers are invoked
 
 #### Phase 2
 - Core loop
@@ -21,6 +21,8 @@
 #### Phase 3
 - Core loop
 - Additional functions
+- End
+  - GM ends Play
 
 #### Play ends
 - `→ recap`
