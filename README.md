@@ -3,16 +3,19 @@
 This repository contains the current state of development of the Heiress play.  
 We hope you find your way with these files:
 
-#### Overview
-- List of terms [→ terms.md](terms.md)
-- Play script [→ script.md](script.md)
-- Event schedule [→ schedule.md](schedule.md)
-- Intro text [→ intro.md](intro.md)
+#### Base
+- List of terms [terms.md](terms.md)
+- Project text [project-text.md](project-text.md)
 
-#### Detail
-- Roles [→ detail-roles.md](detail-roles.md)
-- Moves [→ detail-moves.md](detail-moves.md)
-- Card types [→ detail-cards.md](detail-cards.md)
+#### Script
+- Play script [script.md](script.md)
+- Character cards [character-cards.md](character-cards.md)
+- Roles [detail-roles.md](detail-roles.md)
+- Moves [detail-moves.md](detail-moves.md)
+
+#### Framework
+- Event schedule [schedule.md](schedule.md)
+- Intro speech text [intro.md](intro.md)
 
 ---
 
