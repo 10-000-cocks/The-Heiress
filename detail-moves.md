@@ -13,7 +13,7 @@
 ### Program / reprogram Players
 |Scope|![Root](https://img.shields.io/static/v1?label=&message=Root&style=flat-square&color=blueviolet)|
 |:-|:-|
-|**How**|Ask Player "Can you be [Character] for me?", give character card to Player|
+|**How**|Ask Player "Can you be [Character] for me?", give Character Card to Player|
 |**Notes**|Players can reject|
 
 ### Cast spell
