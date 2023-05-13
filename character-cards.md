@@ -162,3 +162,53 @@
 |Descr.|*A baby tree, not yet a forest, a possibility of a forest, or a book, a table…*|
 |Detail|...|
 
+# Benched
+
+### Fact checker
+|Phase|`1`|
+|:-|:-|
+|Status|`Benched`|
+|Descr.|*Strives to log, track and verify what's going on*|
+|Detail|...|
+
+### The insulator
+|Phase|`1`|
+|:-|:-|
+|Status|`Benched`|
+|Descr.|*Strives to log, track and verify what's going on*|
+|Detail|*Will turn performers away from one another. Maybe form subgroups (of like, 2 performers) as split micro-societies.*|
+
+### The populist
+|Phase|`1`|
+|:-|:-|
+|Status|`Benched`|
+|Descr.|*Sits on shoulders of other performers, who will have to carry her without possibility to object.*|
+|Detail|*Q: How can the populist be take off of their shoulders? — Bribe?*|
+
+### Silence
+|Phase|`1`|
+|:-|:-|
+|Status|`Benched`|
+|Descr.|*A character that goes around and, one after the other, silences all other characters (without stopping them from moving).*|
+|Detail|*(Silencing maybe for a short period? Q: What restarts?)*|
+
+### The amplifier
+|Phase|`1`|
+|:-|:-|
+|Status|`Benched`|
+|Descr.|*Amplifies another performer's moves (verbal or bodily)*|
+|Detail|...|
+
+### The butler / secretary / executor (of will)
+|Phase|`1`|
+|:-|:-|
+|Status|`Benched`|
+|Descr.|*Who always ‘assist someone else’ doesn’t have any purpose of it’s own*|
+|Detail|...|
+
+### The exporter
+|Phase|`1`|
+|:-|:-|
+|Status|`Benched`|
+|Descr.|*Gives something to the audience*|
+|Detail|...|
