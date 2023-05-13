@@ -23,7 +23,7 @@
 
 |Title |Cleaning person|
 |:-----|:--|
-|Descr.|A person who clean, and preserve.|
+|Descr.|A person who cleans, and preserves.|
 |Detail||
 |Power |Decommission|
 <!-- |Phase |1| -->
