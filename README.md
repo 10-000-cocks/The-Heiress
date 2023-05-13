@@ -9,7 +9,6 @@ This repository contains the current state of development of the Heiress play.
 #### Script
 - Play script [script.md](script.md)
 - Character cards
-  - All [characters-all.md](characters-all.md)
   - Phase 1 [characters-phase-1.md](characters-phase-1.md)
   - Phase 2 [characters-phase-2.md](characters-phase-2.md)
   - Phase 3 [characters-phase-3.md](characters-phase-3.md)
