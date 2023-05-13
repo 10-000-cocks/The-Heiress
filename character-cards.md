@@ -18,7 +18,7 @@
 |Descr.|*An agreement or promise to do something in the future, working together, making new plans, push boundaries, endurance, wanting something, dreams.*|
 |Detail|...|
 
-### More death/the balancer
+### More death//the balancer
 |Phase|`1`|
 |:----|:--|
 |Descr.|*A being who can tilt the balance life or death ratio (in our context, player/ actor ratio) with language or movement.*|
@@ -76,13 +76,13 @@
 |Phase|`1`|
 |:----|:--|
 |Descr.|*Maybe of one suite with the squatter and the squanderer. What's the economy here? Does the parasite only suck or also bloom?*|
-|Detail|*this character will change the original character to alter the sentence one at a time. / Until everything became / TAKE parentz as example: / ‘Listen to me’>‘you to me’>’you’re me’>’you’re mine’ / ‘you’re mine’ (WHISPER)*|
+|Detail|*this character will change the original character to alter the sentence one at a time.<br>Until everything became<br>TAKE parentz as example:<br>‘Listen to me’>‘you to me’>’you’re me’>’you’re mine’<br>‘you’re mine’ (WHISPER)*|
 
 ### Parentz
 |Phase|`1`|
 |:----|:--|
 |Descr.|*A combination between any gender of parent. Will slowly transforming into someone who always tell negative prophecy towards ‘the child’.*|
-|Detail|*‘Morning’ / ‘Do you sleep well?’ ‘Do you feel cold?’ / ‘Do you want to put on a jacket?’ ‘Do you feel hungry?’ / ‘Let’s have spaghetti for dinner’ / ‘Let’s go to supermarket’ ‘Lets’s go to a movie’ / ‘It’s time for school’ ‘it’s time to study’ / ‘it’s time to go to sleep’ ‘it’s time for dinner’ / ‘Go to your room’ ‘Clean up your own mess’ ‘Study!’ ‘Go to sleep’ / ‘Stop talking like that’ ‘Stop playing video game’ / ‘Stop browsing social media’ / ‘Listen to me’*|
+|Detail|*‘Morning’<br>‘Do you sleep well?’ ‘Do you feel cold?’<br>‘Do you want to put on a jacket?’ ‘Do you feel hungry?’<br>‘Let’s have spaghetti for dinner’<br>‘Let’s go to supermarket’ ‘Lets’s go to a movie’<br>‘It’s time for school’ ‘it’s time to study’<br>‘it’s time to go to sleep’ ‘it’s time for dinner’<br>‘Go to your room’ ‘Clean up your own mess’ ‘Study!’ ‘Go to sleep’<br>‘Stop talking like that’ ‘Stop playing video game’<br>‘Stop browsing social media’<br>‘Listen to me’*|
 
 ### The squanderer
 |Phase|`1`|
@@ -93,7 +93,7 @@
 ### The maintainer
 |Phase|`1`|
 |:----|:--|
-|Descr.|*(invested into maintaining things / keeping things going / keeping things as they are. Partner to cleaning person (how are they different?))*|
+|Descr.|*(invested into maintaining things<br>keeping things going<br>keeping things as they are. Partner to cleaning person (how are they different?))*|
 |Detail|...|
 
 ### Cleaning person
@@ -114,7 +114,7 @@
 |Descr.|*Believes (trusts) in a (positive or negative) future pre-made*|
 |Detail|...|
 
-### The annoying support / The indispensable nuisance
+### The annoying support//The indispensable nuisance
 |Phase|`1`|
 |:----|:--|
 |Descr.|*Something that is really annoying but really necessary for upholding [something in] the performance. (Think of, like, spiders, or mold, or death, or sewage systems)*|
@@ -138,7 +138,7 @@
 |Descr.|*(not a zombie, but one who, once placed in the play, cannot be removed again. The one who has bypassed/overcome/avoided death)*|
 |Detail|...|
 
-### Stanford university/ adversity
+### Stanford university//adversity
 |Phase|`1`|
 |:----|:--|
 |Descr.|...|
