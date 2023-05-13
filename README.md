@@ -1,11 +1,10 @@
 # The Heiress repo
 
 This repository contains the current state of development of the Heiress play.  
-We hope you find your way with these files:
 
 #### Base
-- List of terms [terms.md](terms.md)
 - Project text [project-text.md](project-text.md)
+- List of terms [terms.md](terms.md)
 
 #### Script
 - Play script [script.md](script.md)
