@@ -12,7 +12,7 @@ We hope you find your way with these files:
 #### Detail
 - Roles [→ detail-roles.md](detail-roles.md)
 - Moves [→ detail-moves.md](detail-moves.md)
-- Card types [→ detail-card-types.md](detail-card-types.md)
+- Card types [→ detail-cards.md](detail-cards.md)
 
 ---
 
