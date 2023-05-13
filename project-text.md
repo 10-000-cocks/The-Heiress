@@ -1,0 +1,5 @@
+# Project text
+
+In three differently themed performances, The Heiress will explore the idea of heritage and the organisation of inheriting as a momentous space of imagination for societies pressed between questions of continuity and transformation. In a game-like interplay, The Heiress will focus on and seek to imagine differently the distributions of agency around moments of heritage across its habitual, familial, economic, institutional and cosmological dimensions: Who gets to determine what is inherited, and on what conditions? What is dictated? What expected? What owed? How can we conceive heritage as a space of shared political agency and imaginational negotiation?
+
+The role of the performers in the piece will be to improvisationally embody human and nonhuman "characters" that connect in various ways in the heritage nexus, ranging from human figures to abstract ideas, from pieces of infrastructure to organic entities, and from archetypes to modifying processes. The improvisation will be directed in-time by prompts in the form of character cards provided to the performers players by the audience players. 
