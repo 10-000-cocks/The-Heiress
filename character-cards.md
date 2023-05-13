@@ -18,7 +18,7 @@
 |Descr.|*An agreement or promise to do something in the future, working together, making new plans, push boundaries, endurance, wanting something, dreams.*|
 |Detail|...|
 
-### More death//the balancer
+### More death / the balancer
 |Phase|`1`|
 |:----|:--|
 |Descr.|*A being who can tilt the balance life or death ratio (in our context, player/ actor ratio) with language or movement.*|
@@ -114,7 +114,7 @@
 |Descr.|*Believes (trusts) in a (positive or negative) future pre-made*|
 |Detail|...|
 
-### The annoying support//The indispensable nuisance
+### The annoying support / The indispensable nuisance
 |Phase|`1`|
 |:----|:--|
 |Descr.|*Something that is really annoying but really necessary for upholding [something in] the performance. (Think of, like, spiders, or mold, or death, or sewage systems)*|
@@ -138,7 +138,7 @@
 |Descr.|*(not a zombie, but one who, once placed in the play, cannot be removed again. The one who has bypassed/overcome/avoided death)*|
 |Detail|...|
 
-### Stanford university//adversity
+### Stanford university / adversity
 |Phase|`1`|
 |:----|:--|
 |Descr.|...|
