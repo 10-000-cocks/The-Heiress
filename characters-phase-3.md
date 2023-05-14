@@ -30,7 +30,7 @@
 
 |Character  |The exporter|
 |:----------|:--|
-|Description|Gives something to the audience.|
+|Description|Gives something to the audienc. Regarless whether others ever wanted it in the first place. It's always about MORE KPI.|
 |Detail     |   |
 |Power      |   |
 <!-- |Phase |3| -->
