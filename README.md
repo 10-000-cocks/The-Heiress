@@ -8,13 +8,10 @@ This repository contains the current state of development of the Heiress play.
 
 #### Script
 - Play script [script.md](script.md)
-- Character cards
-  - Phase 1 [characters-phase-1.md](characters-phase-1.md)
-  - Phase 2 [characters-phase-2.md](characters-phase-2.md)
-  - Phase 3 [characters-phase-3.md](characters-phase-3.md)
-  - Unbound [characters-unbound.md](characters-unbound.md)
-- Roles [detail-roles.md](detail-roles.md)
-- Moves [detail-moves.md](detail-moves.md)
+- Roles [roles.md](detail-roles.md)
+- Moves [moves.md](detail-moves.md)
+- Characters [characters.md](characters.md)
+- Spells [spells.md](spells.md)
 
 #### Framework
 - Event schedule [schedule.md](schedule.md)
