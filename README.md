@@ -20,21 +20,27 @@ This repository contains the current state of development of the Heiress play.
 - Event schedule [schedule.md](schedule.md)
 - Intro speech text [intro.md](intro.md)
 
----
+```
+TO DO
 
-### To do
+Ideas
+- CPs revert to NCP by death
+- CPs revert to NCP by death trap
+- CPs revert to Dark Horse by decommissioning
 
-#### Script
-- [ ] Rules, questions, ... for Recap
+Script
+- Rules, questions, ... for Recap
 
-#### Characters
-- [ ] Add list of Characters to this repo
-- [ ] Define deathtraps for each Character?
+Characters
+- Add list of Characters to this repo
+- Define deathtraps for each Character?
 
-#### Props
-- [ ] Flip board (whiteboard OK from Heidi)
-- [ ] Roll of paper to cover Phase 2 & 3 character cards with
+Props
+- Flip board (whiteboard OK from Heidi)
+- Roll of paper to cover Phase 2 & 3 character cards with
 
-#### Writing
-- [ ] Dev intro text
-- [ ] Dev terms
+Writing
+- Dev intro text
+- Dev terms
+
+```
