@@ -7,7 +7,7 @@
 |Description|`<character_description>`|
 |Detail     |`<character_detail>`|
 |Power      |`<character_power>`|
-|Deathtrap  |`<character_deathtrap>`|
+<!-- |Deathtrap  |`<character_deathtrap>`| -->
 <!-- |Phase      |`1` `2` `3` `Unbound`| -->
 
 ### Phase 1
