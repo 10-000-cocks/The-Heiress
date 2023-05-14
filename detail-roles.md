@@ -19,12 +19,3 @@
 |**Motivation**|Exist (in (stage) society)|
 |**Rights**|Can deny programming attempts|
 
----
-
-```
-NOTES
-
-- CPs revert to NCP by death
-- CPs revert to NCP by death trap
-- CPs revert to Dark Horse by decommissioning
-```
