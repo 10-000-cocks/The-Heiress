@@ -1,28 +1,36 @@
 # Spells
 
-|Spell |Hive Mind|
-|:-----|:--|
-|Descr.|A being transform every character nearby. when the hive mind talk, infected one talks the same.|
-|Detail|‘I am one’ / ‘I am all’ / ‘I am the biggest’ / ‘I’m the longest’ / ‘I’m the smartest’ / ‘I am the supreme’ / ‘I’M THE ONE’|
+### Prototype
 
-|Spell |The shape shifter ("fake news")|
-|:-----|:--|
-|Descr.|Can do and be anything (including game master). Has no coherence.|
-|Detail|...|
+|Spell      |`<spell_name>`|
+|:----------|:--|
+|Description|`<spell_description>`|
+|Detail     |`<spell_detail>`|
+
+### Phase: Unbound
+
+|Spell      |Hive Mind|
+|:----------|:--|
+|Description|A being transform every character nearby. when the hive mind talk, infected one talks the same.|
+|Detail     |‘I am one’<br>‘I am all’<br>‘I am the biggest’<br>‘I’m the longest’<br>‘I’m the smartest’<br>‘I am the supreme’<br>‘I’M THE ONE’|
+
+|Spell      |The shape shifter ("fake news")|
+|:----------|:--|
+|Description|Can do and be anything (including game master). Has no coherence.|
+|Detail     |...|
 
 <!-- Became Parentz's Power -->
-|Spell |Reality |
-|:-----|:--|
-|Descr.|The one and only reality itself.|
-|Detail|Complains that "yes, but it must make sense!"|
+|Spell      |Reality |
+|:----------|:--|
+|Description|The one and only reality itself.|
+|Detail     |Complains that "yes, but it must make sense!"|
 
-|Spell |Death|
-|:-----|:--|
-|Descr.|Reverts one or more CPs back to NCPs.|
-|Detail|What if this meets undying?|
-|Power ||
+|Spell      |Death|
+|:----------|:--|
+|Description|Reverts one or more CPs back to NCPs.|
+|Detail     |What if this meets undying?|
 
-|Spell |The undying|
-|:-----|:--|
-|Descr.|Not a zombie, but one who, once placed in the play, cannot be removed again. The one who has bypassed/overcome/avoided death.|
-|Detail||
+|Spell      |The undying|
+|:----------|:--|
+|Description|Not a zombie, but one who, once placed in the play, cannot be removed again. The one who has bypassed/overcome/avoided death.|
+|Detail     ||
