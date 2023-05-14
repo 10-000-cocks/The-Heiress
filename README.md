@@ -20,9 +20,9 @@ This repository contains the current state of development of the Heiress play.
 - Event schedule [schedule.md](schedule.md)
 - Intro speech text [intro.md](intro.md)
 
-```
-TO DO
+### To do
 
+```
 Ideas
 - CPs revert to NCP by death
 - CPs revert to NCP by death trap
