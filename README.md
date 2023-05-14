@@ -20,6 +20,8 @@ This repository contains the current state of development of the Heiress play.
 - Event schedule [schedule.md](schedule.md)
 - Intro speech text [intro.md](intro.md)
 
+---
+
 ```
 
 
@@ -49,5 +51,4 @@ Props
 Writing
 - Dev intro text
 - Dev terms
-
 ```
