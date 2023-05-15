@@ -8,8 +8,8 @@ This repository contains the current state of development of the Heiress play.
 
 #### Script
 - Play script [script.md](script.md)
-- Roles [roles.md](detail-roles.md)
-- Moves [moves.md](detail-moves.md)
+- Roles [roles.md](roles.md)
+- Moves [moves.md](moves.md)
 - Characters [characters.md](characters.md)
 - Spells [spells.md](spells.md)
 
