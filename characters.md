@@ -44,7 +44,7 @@
 |:----------|:--|
 |Description|Seeks continuity, eternal reoccurence|
 |Detail     |From Future Coloniser|
-|Power      |Decommission|
+|Power      |   |
 <!-- |Phase      |1  | -->
 
 |Character  |Future coloniser|
