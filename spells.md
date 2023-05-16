@@ -33,4 +33,9 @@
 |Spell      |The undying|
 |:----------|:--|
 |Description|Not a zombie, but one who, once placed in the play, cannot be removed again. The one who has bypassed/overcome/avoided death.|
-|Detail     ||
+|Detail     |...|
+
+|Spell      |Intercultural marriage|
+|:----------|:--|
+|Description|...|
+|Detail     |...|
