@@ -2,7 +2,11 @@
 
 ### Play
 
-The Play is what happens between the beginning and the end of the Play. It consists in the construction of Societies that emerge, change and develop through the interaction of Characters as embodied by Players.
+The Play is what happens between the beginning and the end of the Play. It consists in the construction of Societies that emerge, change and develop through the interaction of Characters as embodied by Players. The Play is structured in 3 Phases.
+
+
+
+
 
 ### Societies
 
